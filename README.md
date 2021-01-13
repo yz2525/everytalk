@@ -1,4 +1,3 @@
-<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;img src="https://user-images.githubusercontent.com/17819874/79853717-5db2f900-8403-11ea-99ba-ed0bb3cdb9ef.png" height="100"/&gt;
 
 # 프로젝트 이름  
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
